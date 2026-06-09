@@ -1,21 +1,34 @@
 # Travel.Co Mobile Onboarding Flow
 
-A mobile onboarding flow designed in Figma.
+A mobile onboarding and travel discovery experience designed in Figma.
 
 ## Screens
 
-- Splash Screen
-- Login Screen
-- Create Account Screen
-- Dashboard Screen
-- Destination Screen
+### Splash Screen
+![Splash](SPLASH.png)
+
+### Login Screen
+![Login](login.png)
+
+### Create Account Screen
+![Create Account](create acc.png)
+
+### Dashboard Screen
+![Dashboard](dashboard.png)
+
+### Destination Selection Screen
+![Selection](selection.png)
+
+## Features
+
+- Travel-themed onboarding
+- User authentication
+- Destination discovery
+- Clean mobile UI
+- Interactive prototype designed in Figma
 
 ## Tools Used
 
 - Figma
-- Iconify
 - Unsplash
-
-## Project Overview
-
-Travel.Co is a travel application that helps users discover destinations, create accounts, and explore travel opportunities through a clean and modern onboarding experience.
+- Iconify
