@@ -11,7 +11,7 @@ A mobile onboarding and travel discovery experience designed in Figma.
 ![Login](login.png)
 
 ### Create Account Screen
-![Create Account](create acc.png)
+![Create Account](create-account.png)
 
 ### Dashboard Screen
 ![Dashboard](dashboard.png)
